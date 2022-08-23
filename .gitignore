@@ -3,3 +3,9 @@
 
 # Dependency directories
 node_modules/
+
+results/
+
+simulation.js
+config.js
+data.json
